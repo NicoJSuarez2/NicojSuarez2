@@ -25,8 +25,7 @@ Soy Administardora de empresas
 
 ## 🌱 Aprendiendo Actualmente
 Estoy aprendiendo y mejorando mis habilidades en:
-SCKILEAR
-TENSORFLOW
+Scikit-learn vs TensorFlow
 
 ## 🤝 Contribuciones
 Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad de desarrolladores. Aquí tienes algunos de los proyectos a los que he contribuido:
