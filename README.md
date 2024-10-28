@@ -33,7 +33,7 @@ Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad
 ## 📫 Contacto
 Puedes contactarme a través de:
 Email: Nsuarezz@poligran.edu.co
-LinkedIn: [[Enlace a tu perfil de LinkedIn]](https://www.linkedin.com/in/nicojsuarez/)
+LinkedIn: [[Nicojsuarez]](https://www.linkedin.com/in/nicojsuarez/)
 ☎️ +57 3052621201 
 ¡Gracias por visitar mi perfil! Estoy siempre abierto/a a nuevas oportunidades y colaboraciones. No dudes en ponerte en contacto conmigo si tienes alguna pregunta o simplemente quieres charlar sobre tecnología.
 
