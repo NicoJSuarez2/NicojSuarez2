@@ -5,18 +5,18 @@
 ## 🔧 Tecnologías y Herramientas
 Lenguajes de Programación: Python, DAX, M y R
 Herramientas de Desarrollo: GIT y DOCKER
-Bases de Datos: [Lista de bases de datos que utilizas]
+
 
 ## 📂 Proyectos Destacados
 ### Analisis de llamadas de emrgencia al 123 en Bogotá
 Desarrollamos un tablero en el cual podemos observar que localidades tienen mas llamadas 🚔
 Tecnologías: POWER BI
-Repositorio: [Enlace al repositorio del proyecto]
+Repositorio: [[Enlace al repositorio del proyecto] ](https://github.com/NicoJSuarez2/Llamadas-Emergencia-123)
 
 ### OILIST E-commerce brasilera
 Aqui vamos a observar los problemas que tiene una e-commerce brasilera 
 Tecnologías: PYTHON
-Repositorio: [Enlace al repositorio del proyecto]
+Repositorio: [[Enlace al repositorio del proyecto]](https://github.com/NicoJSuarez2/OILIST)
 
 
 ## 🏆 Logros y Reconocimientos
@@ -28,10 +28,7 @@ Estoy aprendiendo y mejorando mis habilidades en:
 Scikit-learn vs TensorFlow
 
 ## 🤝 Contribuciones
-Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad de desarrolladores. Aquí tienes algunos de los proyectos a los que he contribuido:
-
-[Nombre del proyecto y enlace al repositorio]
-[Nombre del proyecto y enlace al repositorio]
+Me encanta colaborar en proyectos de código abierto y contribuir a la comunidad de desarrolladores. 
 
 ## 📫 Contacto
 Puedes contactarme a través de:
