@@ -38,7 +38,7 @@ LinkedIn: [[Nicojsuarez]](https://www.linkedin.com/in/nicojsuarez/)
 ¡Gracias por visitar mi perfil! Estoy siempre abierto/a a nuevas oportunidades y colaboraciones. No dudes en ponerte en contacto conmigo si tienes alguna pregunta o simplemente quieres charlar sobre tecnología.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lycrisiz&show_icons=true&locale=en" alt="Lycrisiz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicojsuarez2&show_icons=true&locale=en" alt="Nicojsuarez2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lycrisiz&show_icons=true&locale=en&hide_rank=true&card_width=300px" alt="Lycrisiz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicojsuarez2&show_icons=true&locale=en&hide_rank=true&card_width=300px" alt="Nicojsuarez2" /></p>
 
