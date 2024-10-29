@@ -37,3 +37,8 @@ LinkedIn: [[Nicojsuarez]](https://www.linkedin.com/in/nicojsuarez/)
 ☎️ +57 3052621201 
 ¡Gracias por visitar mi perfil! Estoy siempre abierto/a a nuevas oportunidades y colaboraciones. No dudes en ponerte en contacto conmigo si tienes alguna pregunta o simplemente quieres charlar sobre tecnología.
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lycrisiz&show_icons=true&locale=en" alt="Lycrisiz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lycrisiz&show_icons=true&locale=en&hide_rank=true&card_width=300px" alt="Lycrisiz" /></p>
+
