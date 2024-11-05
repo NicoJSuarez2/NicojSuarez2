@@ -20,7 +20,7 @@ Repositorio: [[Enlace al repositorio del proyecto]](https://github.com/NicoJSuar
 
 
 ## 🏆 Logros y Reconocimientos
-Soy Administardora de empresas 
+Soy Administardor de empresas 
 
 
 ## 🌱 Aprendiendo Actualmente
