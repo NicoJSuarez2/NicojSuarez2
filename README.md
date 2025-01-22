@@ -1,6 +1,11 @@
+
+
 # Hi there 👋
 ¡Hola! 👋 Soy NicolasSuarez
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la ciencia de datos , con experiencia en python y AZURE. Aquí encontrarás una variedad de proyectos en los que he trabajado, desde análisis de datos hasta Regresion Lineal.
+
+## Codewars Profile Badges
+![Codewars Badge](https://www.codewars.com/users/NicoJSuarez2/badges/large)
 
 ## 🔧 Tecnologías y Herramientas
 Lenguajes de Programación: Python, DAX, M y R
